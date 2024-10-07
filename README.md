@@ -2,7 +2,7 @@
 
 ## Simple CRUD API with Go
 
-This project is a RESTful API built using Go's `net/http` package for managing a collection of tasks. Each task has a title, description, and status (either "pending" or "completed"). The API supports basic CRUD (Create, Read, Update, Delete) operations and stores tasks in-memory (no database required).
+This project is a RESTful API built using Go's `net/http` package for managing a collection of tasks. Each task has a title, description, and status . The API supports basic CRUD (Create, Read, Update, Delete) operations and stores tasks in-memory.
 
 ### Features:
 - **Create a new task**: Add a task with a title and description.
